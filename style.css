@@ -43,3 +43,10 @@ body {
 .menu button:hover {
   background-color: darkred;
 }
+.main-image {
+  max-width: 80%;
+  height: auto;
+  border: 5px solid crimson;
+  border-radius: 20px;
+  margin-top: 20px;
+}
